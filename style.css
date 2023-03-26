@@ -18,7 +18,7 @@ body {
 {
   width: 100%;
   height: 130vh;
-  background-image: url(Image/background3.jpg);
+  background-image: url(ImagesGit/background3.jpg);
   background-size: cover;
   background-position: center;
   display: inline-block;
@@ -381,7 +381,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
   #header{
-    background-image: url(Image/background3phome.jpg);
+    background-image: url(ImagesGit/background3phome.jpg);
     width: 100%;
   }
   .header-text{
